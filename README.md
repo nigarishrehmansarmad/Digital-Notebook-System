@@ -1,5 +1,3 @@
-# Digital-Notebook-System
-
 # Digital Notebook System
 
 ## Project Overview
