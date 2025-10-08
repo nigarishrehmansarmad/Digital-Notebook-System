@@ -1,0 +1,3 @@
+12	aryan	qwrtyu13
+13	nigarish	qwqasasassq
+1.12.2023	hashing	we are going to study hashing
